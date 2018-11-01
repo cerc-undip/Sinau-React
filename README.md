@@ -18,7 +18,7 @@ Pembelajaran React.js dasar
 4. Install package `create-react-app`
    Jika sudah menginstal `node` dan `npm` maka instal package tambahan sebagai *boilerplate* pembuatan aplikasi.
    
-   Ketikkan perintah berikut pada `cmd`:
+   Ketikkan perintah berikut pada **Command Prompt**:
    ```
    npm install -g create-react-app
    ```
@@ -29,6 +29,7 @@ Pembelajaran React.js dasar
    git clone https://github.com/cerc-undip/sinau-react
    ```
 7. Instal semua package `node`
+   
    Masuk ke folder project yang sudah di-clone (`sinau-react`)
    ```
    npm install
