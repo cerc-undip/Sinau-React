@@ -24,6 +24,7 @@ Pembelajaran React.js dasar
    ```
 5. Buat folder dimanapun untuk menyimpan project.
 6. Clone repository ini ([https://github.com/cerc-undip/sinau-react](https://github.com/cerc-undip/sinau-react "Sinau React CERC"))
+   
    Ketikkan perintah berikut pada folder yang sudah dibuat
    ```
    git clone https://github.com/cerc-undip/sinau-react
