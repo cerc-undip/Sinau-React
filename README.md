@@ -55,3 +55,9 @@ Tempat : Lab. Software
    ```
    npm start
    ```
+10. Buat boilerplate **React**
+   
+   Buka folder workspace kalian pada **Command Prompt**, misal `D:\openclass`. Kemudian jalankan perintah berikut:
+   ```
+   create-react-app club-cerc
+   ```
