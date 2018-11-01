@@ -1,5 +1,8 @@
 # Sinau React.js
 Pembelajaran React.js dasar
+Hari : Kamis, 1 November 2018
+Waktu: 18.30 - selesai
+Tempat : Lab. Software
 
 ## Installation
 1. Install **Git**
