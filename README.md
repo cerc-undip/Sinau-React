@@ -18,7 +18,7 @@ Tempat : Lab. Software
    Pastikan text editor favorit kalian sudah terinstal dengan baik.
    > Recommended :
    >
-   > Sublime Text 3, Atom, VS Code, Bracket, Notepad++
+   > Sublime Text 3, Atom, VS Code, Bracket
    >
    > Not recommended :
    >
